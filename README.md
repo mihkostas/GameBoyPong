@@ -26,3 +26,9 @@ A classic Pong game recreated for the original Nintendo Game Boy. Written in C a
    ```bat
     c:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
     c:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o main.gb main.o
+
+### 📦 Play or Download
+
+You can also download the ROM or leave feedback on **Game Jolt**:
+
+[![Game Jolt](https://img.shields.io/badge/Game%20Jolt-Play%20Now-yellowgreen?logo=gamejolt)](https://gamejolt.com/games/pong_gameboy/502976)
