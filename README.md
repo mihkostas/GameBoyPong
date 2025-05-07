@@ -6,14 +6,14 @@ A classic Pong game recreated for the original Nintendo Game Boy. Written in C a
 
 ### Requirements
 
-- [GBDK (Game Boy Development Kit)](https://github.com/gbdev/gbdk)
+- [GBDK (Game Boy Development Kit)](https://github.com/gbdk-2020/gbdk-2020)
 - A Game Boy emulator like **BGB**, **SameBoy**, or a real Game Boy + flasher
 
 ## Building the Game
 ### Windows
 
 1. **Install GBDK**  
-   Download and extract [GBDK](https://github.com/gbdev/gbdk/releases) to a folder, e.g., `C:\gbdk`.
+   Download and extract [GBDK](https://github.com/gbdk-2020/gbdk-2020/releases) to a folder, e.g., `C:\gbdk`.
 
 2. **Compile the Game**  
    A build script is included for Windows users: `make.bat`.
