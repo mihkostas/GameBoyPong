@@ -1,6 +1,6 @@
 # Game Boy Pong
 
-A classic Pong game recreated for the original Nintendo Game Boy. Written in C and built using [GBDK](https://github.com/gbdk-2020/gbdk-2020), this project brings retro gaming to life with a minimalist twist.
+A classic Pong game recreated for the original Nintendo Game Boy. Written in C and built using [GBDK](https://github.com/gbdk-2020/gbdk-2020).
 
 <p align="center">
   <img src="images/IMG_20250507_050652.jpg" alt="Game Boy Pong Screenshot" width="550"/>
