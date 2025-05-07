@@ -20,7 +20,7 @@ A classic Pong game recreated for the original Nintendo Game Boy. Written in C a
    Download and extract [GBDK](https://github.com/gbdk-2020/gbdk-2020/releases) to a folder, e.g., `C:\gbdk`.
 
 2. **Compile the Game**  
-   A build script is included for Windows users: `make.bat`.
+   A build script is included for Windows users: `make.bat` must run inside the game's directory.
 
    #### make.bat contents:
    ```bat
