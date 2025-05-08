@@ -11,7 +11,7 @@ A classic Pong game recreated for the original Nintendo Game Boy. Written in C a
 ### Requirements
 
 - [GBDK (Game Boy Development Kit)](https://github.com/gbdk-2020/gbdk-2020)
-- A Game Boy emulator like **BGB**, **SameBoy**, or a real Game Boy + flasher
+- A Game Boy emulator like **BGB**, **SameBoy**, **VisualBoyAdvance**, or a real Game Boy + flasher
 
 ## Building the Game
 ### Windows
