@@ -35,8 +35,8 @@ Similar to Windows, download the Linux binary from [GBDK](https://github.com/gbd
 Then open a terminal and run this inside the source code folder, again replace `your_user` with your actual user account name.
 
    ```bash
-       /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
-       /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o main.gb main.o  
+    /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
+    /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o main.gb main.o  
 
 ## 📦 Play or Download
 
