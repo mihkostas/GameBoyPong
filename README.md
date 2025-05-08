@@ -26,6 +26,17 @@ A classic Pong game recreated for the original Nintendo Game Boy. Written in C a
    ```bat
     c:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
     c:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o main.gb main.o
+### Linux
+
+1. **Install GBDK**
+Similar to Windows, download the Linux binary from [GBDK](https://github.com/gbdk-2020/gbdk-2020/releases) to a folder, e.g, `/home/your_user/gbdk/bin/lcc` replace `your_user` with your actual user account name.
+
+2. **Compile the Game**  
+Then run this inside the source code folder.
+
+```bash
+      /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
+      /home/your_user/gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o main.gb main.o  
 
 ## 📦 Play or Download
 
